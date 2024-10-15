@@ -1,4 +1,7 @@
-# SvelteKit and Hono Random Number Generator App
+🔔 🔔 🔔
+---
+
+# Random Number Generator App (SvelteKit and Hono)
 
 ## Overview
 
@@ -65,8 +68,9 @@ Or if you've compiled the backend, run:
 The project can be deployed on Deno Deploy. You can view the live deployment here: [link](random-api-app.deno.dev)
 
 ## Endpoints
-**GET /**: Serve the frontend (static files from SvelteKit build)
-**GET /api/random**: Generate and return a random number
+
+**GET /**: Serve the frontend (static files from SvelteKit build).
+**GET /api/random**: Generate and return a random number.
 
 ## License
 This project is licensed under the MIT License.
