@@ -1,11 +1,11 @@
 🔔 🔔 🔔
 ---
 
-# Random Number Generator App (SvelteKit and Hono)
+# Random Number Generator App
 
 ## Overview
 
-This is a fullstack application built using **SvelteKit** for the frontend and **Hono** running on **Deno** for the backend. The application generates random numbers via an API call to the backend, which is then displayed on the frontend. The project demonstrates a simple setup where client-side and server-side functionalities are combined.
+This is a fullstack application built using **SvelteKit** for the frontend and **Hono** running on **Deno** for the backend. The application generates random numbers via an API call to the backend, which are then displayed on the frontend. In this project, the server-side and client-side have been merged, with the client-side (static assets) served directly from the Deno server. The project demonstrates a simple setup where both the frontend and backend are integrated and deployed together.
 
 ## Features
 
