@@ -65,7 +65,7 @@ Or if you've compiled the backend, run:
 
 
 ## Deployment
-The project can be deployed on Deno Deploy. You can view the live deployment here: [link](random-api-app.deno.dev)
+The project can be deployed on Deno Deploy. You can view the live deployment here: [link](https://random-api-app.deno.dev/)
 
 ## Endpoints
 
